@@ -41,3 +41,30 @@
 
 # a = 'Caio'
 # print(a[0])
+
+# if 10 != 88/3:
+#     print('verdade')
+
+# if 10 == 40/4:
+#     print('verdade')
+# if 10 == 88/3:
+#     print('verdade')
+
+# else: 
+#     print('mentira')
+
+# def compare_com_oito(y):
+#     if y > 8:
+#         return 'Maior'
+    
+#     elif y < 0:
+#         return 'Negativo'
+    
+#     elif y < 8:
+#         return'Menor'
+    
+    
+#     else:
+#         return 'Igual'
+# print(compare_com_oito(8))
+    
