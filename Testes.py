@@ -67,4 +67,37 @@
 #     else:
 #         return 'Igual'
 # print(compare_com_oito(8))
+
+# def adicione_15(x):
+#     if x >= 100:
+#         return(x + 15)
+#     else:
+#        return("Não ganhou nada")
     
+# print(adicione_15(90))
+
+# def aprendi():
+#     print('minha primeira função')
+
+# aprendi()
+
+# def mais_nove(a):
+#     return (a + 9)
+
+# print(mais_nove(1000))
+
+# def conta(a,b,c):
+#     resultado = a - b * c
+#     print('paramentro a é igual', a)
+#     print('paramentro b é igual', b)
+#     print('paramentro c é igual', c)
+#     return resultado
+# print(conta(2,2,2))
+
+# def max():
+#     (8,18,4)      <----------------------------------------
+#     print(max)
+
+# z = -20
+# abs(z)
+# print(abs(z))
