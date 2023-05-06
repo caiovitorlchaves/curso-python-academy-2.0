@@ -94,10 +94,37 @@
 #     return resultado
 # print(conta(2,2,2))
 
-# def max():
-#     (8,18,4)      <----------------------------------------
-#     print(max)
+# maior_da_lista = [887,18,4]
+# print(max(maior_da_lista))
 
 # z = -20
 # abs(z)
 # print(abs(z))
+
+# lista = (10,10,80)
+# print(sum(lista))
+
+# a = (round(3.585265456, 2))
+# print(a)
+
+# a = pow(2,10)
+# print(a)
+
+# a = len('Jesus')
+# print(a)
+
+# def salario(hrs_trab):
+#     return hrs_trab * 40
+
+# def com_bonus(hrs_trab):
+#     return salario(hrs_trab) + 50
+# print(salario(8), com_bonus(8))
+
+hrs_trab = 5
+salario = hrs_trab * 40 
+if hrs_trab > 8:
+    print(salario + 50, 'Voce ganhou o salario + o bonus de 50')
+else:
+    print( 'Voce trabalhou as 8 horas ou menos')
+    
+
