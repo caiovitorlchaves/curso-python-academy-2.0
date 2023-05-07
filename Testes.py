@@ -120,11 +120,22 @@
 #     return salario(hrs_trab) + 50
 # print(salario(8), com_bonus(8))
 
-hrs_trab = 5
-salario = hrs_trab * 40 
-if hrs_trab > 8:
-    print(salario + 50, 'Voce ganhou o salario + o bonus de 50')
-else:
-    print( 'Voce trabalhou as 8 horas ou menos')
+# hrs_trab = 5
+# salario = hrs_trab * 40 
+# if hrs_trab > 8:
+#     print(salario + 50, 'Voce ganhou o salario + o bonus de 50')
+# else:
+#     print( 'Voce trabalhou as 8 horas ou menos')
     
+# def compare_as_duas(x, y):
+#     if x > y:
+#         print("Maior")
+#     elif y > x:
+#         print("Menor")
+#     else:
+#         print("Iguais")
+# print(compare_as_duas(11, 11))
 
+# def multi_por_7(x):
+#    return x * 7
+# print(multi_por_7(7))
