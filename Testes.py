@@ -139,3 +139,10 @@
 # def multi_por_7(x):
 #    return x * 7
 # print(multi_por_7(7))
+
+# convidados = ['Caio','Vitor', 'Lopes', 'Chaves']
+# # print(convidados[0])
+# # print(convidados[-1])
+# # convidados[0] = 'Vitor'
+# del convidados[0]
+# print(convidados)
