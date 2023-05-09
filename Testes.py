@@ -140,9 +140,32 @@
 #    return x * 7
 # print(multi_por_7(7))
 
-# convidados = ['Caio','Vitor', 'Lopes', 'Chaves']
+convidados = ['Caio','Vitor', 'Lopes', 'Chaves']
 # # print(convidados[0])
 # # print(convidados[-1])
 # # convidados[0] = 'Vitor'
 # del convidados[0]
 # print(convidados)
+#convidados.append('Chaves')
+#convidados.extend(['Vitor', 'Lopes'])
+#print(convidados)
+#print('O primeiro nome é:',convidados[0])
+# print(convidados[1:3])
+# print(convidados[:2])
+# print(convidados[1:])
+# print(convidados[-3:])
+# print(convidados.index('Lopes'))
+novos = ['Deus', 'Jesus', 'Cristo']
+#print(novos)
+vida = [convidados, novos]
+#print(vida)
+# novos.sort()
+# print (novos)
+# convidados.sort()
+# print(convidados)
+# vida.sort(reverse=True)
+# print(vida)
+# numeros = [1,2,3,4,5,6,7,8,9,10]
+# numeros.sort(reverse=True)
+# print(numeros)
+
