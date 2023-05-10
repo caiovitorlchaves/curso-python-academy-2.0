@@ -140,7 +140,7 @@
 #    return x * 7
 # print(multi_por_7(7))
 
-convidados = ['Caio','Vitor', 'Lopes', 'Chaves']
+#convidados = ['Caio','Vitor', 'Lopes', 'Chaves']
 # # print(convidados[0])
 # # print(convidados[-1])
 # # convidados[0] = 'Vitor'
@@ -155,9 +155,9 @@ convidados = ['Caio','Vitor', 'Lopes', 'Chaves']
 # print(convidados[1:])
 # print(convidados[-3:])
 # print(convidados.index('Lopes'))
-novos = ['Deus', 'Jesus', 'Cristo']
+#novos = ['Deus', 'Jesus', 'Cristo']
 #print(novos)
-vida = [convidados, novos]
+#vida = [convidados, novos]
 #print(vida)
 # novos.sort()
 # print (novos)
@@ -168,4 +168,25 @@ vida = [convidados, novos]
 # numeros = [1,2,3,4,5,6,7,8,9,10]
 # numeros.sort(reverse=True)
 # print(numeros)
+
+# nome, idade = 'Caio, 24'.split(',')
+# print(nome)
+# print(idade)
+
+#dicionario = {'c2': 'Caio', 'v1': 'Vitor', 'd1': 'Deus','j1' : 'Jesus'}
+#print(dicionario['d1'])
+#dicionario['c1'] = 'Cristo'
+#dicionario['c2'] = 'caio'
+#print(dicionario)
+
+# dep_trabalhadores = {'dep_1': 'caio', 'dep_2': ['vitor', 'lopes', 'chaves']}
+# print(dep_trabalhadores['dep_2'])
+
+# time = {}
+# time ['golerio'] = 'caio'
+# time ['zaguerio'] = 'vitor'
+# time ['meia'] = 'lopes'
+# time ['atacante'] = 'chaves'
+# print(time['meia'])
+# print(time.get('atacante'))
 
